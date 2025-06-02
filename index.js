@@ -11,7 +11,7 @@ const server = http.createServer((req, res) => {
       <title>Simple Node.js Server</title>
     </head>
     <body>
-      <h1>Welcome to My Node.js Server</h1>
+      <h1>Welcome to My Node.js Server, hehe</h1>
       <p>This is a simple server running on Node.js, listening on port 80.</p>
       <p>Enjoy exploring this basic HTML page served from your local server!</p>
     </body>
